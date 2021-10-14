@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 6
+date: 2020-09-13
+img: volga-it-20.png
+alt: image-alt
+project-date: September 2020
+---
+That was my first participation in a programming event ever. I created [an algorithm](https://github.com/FrainX8/MarsianinGame) that seeks the exit from a maze with diffrent types of obstacles. My solution worked but very slowly because I didn't know how the parallel programming works.

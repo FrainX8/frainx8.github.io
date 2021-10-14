@@ -1,0 +1,29 @@
+footer {
+    color: #fff;
+}
+
+footer h3 {
+    margin-bottom: 20px;
+}
+
+footer .footer-above {
+    padding-top: 20px;
+    background-color: #{{ site.color.secondary }};
+}
+
+footer .row {
+    margin-bottom: 20px;
+}
+
+footer .footer-below {
+    padding: 20px 0;
+    background-color: #{{ site.color.secondary-dark }};
+}
+
+.contact {
+    padding-bottom: 10px;
+}
+
+.credits p {
+    font-size: medium;
+}

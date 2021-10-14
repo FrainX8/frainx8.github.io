@@ -1,0 +1,20 @@
+<div class="contact">
+    <div class="row">
+        <div class="col-md text-center">
+            <ul class="list-inline">
+                {% for network in site.social %}
+                <li>
+                    <a href="{{ network.url }}" class="btn-social btn-outline">
+                        <i class="fab fa-{{ network.title }}"></i>
+                    </a>            
+                </li>
+                {% endfor %}
+                <li>
+                    <a href="mailto: {{site.email}}" class="btn-social btn-outline" >
+                        <i class="fas fa-at"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

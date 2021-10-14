@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 4
+date: 2021-01-21
+img: the-cave.png
+alt: image-alt
+project-date: January 2021
+---
+[The cave](https://benboy.itch.io/the-cave) is a game made for [the Brackeys Game Jam 2021.1](https://itch.io/jam/brackeys-5). And this is the first project when I worked with a teammate. The game was made very rushly and has a lot of bugs. But I gained some experience how I should work in a team. 
